@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/meyhuan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/leakcanary-analyzer-1.3.1-9899ac77f70d5180d6278ee117faa5d72436d4af.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/library-2.4.0-25752a4ee291bacbafbcea2b8e7809ec0061de2f.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.2.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba2fc50507fc5c3f397ff068ce8ca709d351cca2">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-89e558e818f10cd5554807576531878a244a5195.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/soft/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/support-annotations-23.1.0-1f97b4121e7a0b7ad2852d369bad6091f9256d7f.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-b8260423ed63261c4cdf088d85c48421c4597d1a.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/leakcanary-watcher-1.3.1-5cd5ba2183d2733898306161b69891c0c6fdcb0f.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-7f3c255a5bc051466b060e3eaccddf4866ad56bc.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-28ccf5f58ab806e713cc8829507b93275ddfdcdc.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-25d2bfd89236d2f483a1f3b2552f26800cf1ce52.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/org.solovyev.android/checkout/0.7.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="092f5a3bc40db7d8cf8e45d72a0b6b753e9e37d0">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-78cef90a4e9fc2ecaccfae41b04da2b4c6921236.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.larswerkman/HoloColorPicker/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d5a825cbf0f67237377034c2c4edf9ba7e60fbe">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-57c16eda90e3f75799326a43a5bbaa0d980c8e7c.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/internal_impl-23.1.0-6412989e114ba0e1e1718427c771d44d3780c2d7.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/timber-3.1.0-bc2c243cb7b0751b8d6c5ba9270d2d947635d5e4.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-a221ba683f168f8028e7adf19741cb95c2943356.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-f71f6c4b7c8c68274b7a567570044adef10a4cd4.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-97cad1aef71601420af11bf043995731f03d5737.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/internal_impl-23.1.0-873708af680ccf65e16a84e3d1580e341c7fface.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-bd511e3f570ef574883b887a4ba3aeacec8b4bba.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/exploded-aar/me.grantland/autofittextview/0.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/classes-5ecf2b03de6ba8ec58d9d87e2f99c2cc7f6d5afd.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/haha-1.3-2aae164482bbeb939bd70ab626b5135164496af9.jar" />
+    </item>
+    <item
+        jar="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/src/main/libs/RootTools.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5acf020c8db3eb87824b2f47949294732f04b019">
+        <dex dex="/Users/meyhuan/Desktop/project/newpro/AcDisplay-master/project/app/build/intermediates/pre-dexed/defaultFlavor/debug/RootTools-1b10d1a7613bfa41c9a8d02201aea42d88e45dd5.jar" />
+    </item>
+
+</items>
